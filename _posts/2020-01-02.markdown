@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "How to make a new post"
+date:   2020-01-02 21:03:36 +0530
+categories: Javascript NodeJS
+---
+Hi my name is yong nam kim. nice to meet you.
+
 | Fun                  | With                 | Tables          |
 | :------------------- | -------------------: |:---------------:|
 | left-aligned column  | right-aligned column | centered column |
