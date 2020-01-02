@@ -1,13 +1,5 @@
 ---
 layout: post
-title:  "How to make a new post"
-date:   2020-01-02 21:03:36 +0530
-categories: Javascript NodeJS
----
-Hi my name is yong nam kim. nice to meet you.
-
----
-layout: post
 title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
